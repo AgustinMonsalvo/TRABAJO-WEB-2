@@ -3,4 +3,4 @@ El trabajo consistira en hacer un catalogo de compra para autos, donde el usuari
 ## integrantes 
 Agustin Monsalvo - Julian Conti
 # diagrama de la base de datos 
-(Foto/FOTO-BASE-DATOS.png)
+![Diagrama de la base de datos](Foto/FOTO-BASE-DATOS.png)
