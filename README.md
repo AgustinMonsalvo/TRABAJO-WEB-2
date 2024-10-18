@@ -11,3 +11,5 @@ Agustin Monsalvo - Julian Conti
 *Para poder utilizar la pagina se debe tener Apache y MySQL de Xampp encendido y escribir en el buscador de un navegador la siguiente url http://localhost/Catalogo/ Es muy importante que la carpeta Catalogo no este dentro de ninguna otra carpeta ya que las rutas estan pensadas para que Catalogo sea la carpeta principal, la carpeta Catalogo se debe encontrar en el htdocs si clona el repositorio mover la carpeta Catalogo al htdcos.
 
 *Para poder loguearse como administrador correctamente en el formulario del usuario debe escribir donde dice "Correo electronico": webadmin donde dice "Contraseña": admin y donde dice "Ingrese su Rol": Administrador, es importante que ingrese la palabra Administrador tal como esta escrita aqui para dejar loguearse correctamente y para cerrar sesion simplemente debe hacer click en el link que dice "Cerrar Sesion". 
+
+*Moverse a través de la pagina solo usando los links de la misma.
